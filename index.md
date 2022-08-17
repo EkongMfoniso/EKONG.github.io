@@ -2,11 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/EkongMfoniso/EKONG.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-my name is mfoniso ekong a js3 student of monef high school
+#h1 my name is mfoniso ekong a js3 student of monef high school #h1
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
