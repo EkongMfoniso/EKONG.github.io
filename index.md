@@ -4,8 +4,9 @@ You can use the [editor on GitHub](https://github.com/EkongMfoniso/EKONG.github.
 
 ## my name is mfoniso ekong a js3 student of monef high school
 
-[mfoniso ekong](https://www.google.com/search?q=migos&oq=mi&aqs=chrome.0.69i59j69i57j46i67i131i433j0i67l2j69i60l3.1966j0j1&sourceid=chrome&ie=UTF-8)
-[image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgeTBofMMFqHd_x69J-oW5kO5VHJ-tm0jPqSwrXq1&s)
+[mfonis![IMG-20201111-WA0061](https://user-images.githubusercontent.com/111466004/185345570-08760b29-67e9-4bfb-a35a-6139fbaab40e.jpg)
+o ekong](https://www.google.com/search?q=migos&oq=mi&aqs=chrome.0.69i59j69i57j46i67i131i433j0i67l2j69i60l3.1966j0j1&sourceid=chrome&ie=UTF-8)
+
 1. Numbered
 2. List
 
