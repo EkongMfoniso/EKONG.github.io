@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/EkongMfoniso/EKONG.github.
 
 ## my name is mfoniso ekong a js3 student of monef high school
 
-[mfoniso ekong](www.migos - Google Search)
+[mfoniso ekong](https://www.google.com/search?q=migos&oq=mi&aqs=chrome.0.69i59j69i57j46i67i131i433j0i67l2j69i60l3.1966j0j1&sourceid=chrome&ie=UTF-8)
 [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgeTBofMMFqHd_x69J-oW5kO5VHJ-tm0jPqSwrXq1&s)
 1. Numbered
 2. List
