@@ -2,18 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/EkongMfoniso/EKONG.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-#h1 my name is mfoniso ekong a js3 student of monef high school #h1
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+## my name is mfoniso ekong a js3 student of monef high school##
 ### Header 3
 
-- Bulleted
-- List
+[mfoniso ekong](https://www.google.com/search?q=pictures+of+hot+us+guys&oq=hot+us&aqs=chrome.1.69i57j35i39i395i422i424j0i395i422i424i512j0i395i512l7.8778j1j1&sourceid=chrome&ie=UTF-8)
 
 1. Numbered
 2. List
