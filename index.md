@@ -3,7 +3,6 @@
 You can use the [editor on GitHub](https://github.com/EkongMfoniso/EKONG.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ## my name is mfoniso ekong a js3 student of monef high school##
-### Header 3
 
 [mfoniso ekong](https://www.google.com/search?q=pictures+of+hot+us+guys&oq=hot+us&aqs=chrome.1.69i57j35i39i395i422i424j0i395i422i424i512j0i395i512l7.8778j1j1&sourceid=chrome&ie=UTF-8)
 
